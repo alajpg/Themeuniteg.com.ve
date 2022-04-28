@@ -5,6 +5,12 @@
 
 }
 
+a svg{
+  width: 280px;
+  height: auto;
+  background-color: #0070C0;
+}
+
 .bg-box{
   background-color: #0070C0;
 }
